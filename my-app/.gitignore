@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+FlagApi/node_modules
 /.pnp
 .pnp.js
 
